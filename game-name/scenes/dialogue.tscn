@@ -1,0 +1,22 @@
+[gd_scene format=3 uid="uid://ccireu3j1fy3k"]
+
+[ext_resource type="Script" uid="uid://b5e2g8tgu6bgg" path="res://scripts/dialogue_manager.gd" id="1_jwyou"]
+
+[node name="Dialogue" type="Control" unique_id=1860959475]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_jwyou")
+dialogue_lines = "We got this cool typing effect working in godot for the dialogue. This is MASSIVE news for the unemployed."
+delay = 0.1
+
+[node name="DialogueText" type="RichTextLabel" parent="." unique_id=2123711139]
+layout_mode = 0
+offset_left = 283.0
+offset_top = 230.0
+offset_right = 737.0
+offset_bottom = 485.0
+text = "placeholder dialogue"
