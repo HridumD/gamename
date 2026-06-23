@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://birsak4y0wvy7"
-path="res://.godot/imported/BitcountGridDouble_Roman-ExtraLight.ttf-1aa55e3ee4ab5760bb1ab4cf026e2c36.fontdata"
+uid="uid://7su2idcatbgr"
+path="res://.godot/imported/BitcountGridDouble_Roman-Black.ttf-d6b6cda1dcc2d68fe92c3dffb72c8040.fontdata"
 
 [deps]
 
-source_file="res://assets/Bitcount_Grid_Double/static/BitcountGridDouble_Roman-ExtraLight.ttf"
-dest_files=["res://.godot/imported/BitcountGridDouble_Roman-ExtraLight.ttf-1aa55e3ee4ab5760bb1ab4cf026e2c36.fontdata"]
+source_file="res://assets/Fonts/Bitcount Grid Double Font/static/BitcountGridDouble_Roman-Black.ttf"
+dest_files=["res://.godot/imported/BitcountGridDouble_Roman-Black.ttf-d6b6cda1dcc2d68fe92c3dffb72c8040.fontdata"]
 
 [params]
 

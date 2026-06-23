@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://t7xci5pjdib8"
-path="res://.godot/imported/BitcountGridDouble_Cursive-Black.ttf-4f791184712987fe91af30640100e62a.fontdata"
+uid="uid://ck621eri20ubg"
+path="res://.godot/imported/BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf-d54752c974e0e62bb403cb1afcc7b327.fontdata"
 
 [deps]
 
-source_file="res://assets/Bitcount_Grid_Double/static/BitcountGridDouble_Cursive-Black.ttf"
-dest_files=["res://.godot/imported/BitcountGridDouble_Cursive-Black.ttf-4f791184712987fe91af30640100e62a.fontdata"]
+source_file="res://assets/Fonts/Bitcount Grid Double Font/BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf"
+dest_files=["res://.godot/imported/BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf-d54752c974e0e62bb403cb1afcc7b327.fontdata"]
 
 [params]
 

@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://ck621eri20ubg"
-path="res://.godot/imported/BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf-3c00b5c82c709dc7234f66dbde9f99c1.fontdata"
+uid="uid://dgyyakftlosqt"
+path="res://.godot/imported/BitcountGridDouble_Roman-Regular.ttf-7accdaa08ca6216fef71ecf240f843e6.fontdata"
 
 [deps]
 
-source_file="res://assets/Bitcount_Grid_Double/BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf"
-dest_files=["res://.godot/imported/BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf-3c00b5c82c709dc7234f66dbde9f99c1.fontdata"]
+source_file="res://assets/Fonts/Bitcount Grid Double Font/static/BitcountGridDouble_Roman-Regular.ttf"
+dest_files=["res://.godot/imported/BitcountGridDouble_Roman-Regular.ttf-7accdaa08ca6216fef71ecf240f843e6.fontdata"]
 
 [params]
 

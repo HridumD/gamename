@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://b5e2g8tgu6bgg" path="res://scripts/dialogue_manager.gd" id="1_jwyou"]
 [ext_resource type="Texture2D" uid="uid://tsh7w87f0q8q" path="res://assets/DialogueBox.png" id="2_3n4vj"]
+[ext_resource type="FontFile" uid="uid://ck621eri20ubg" path="res://assets/Fonts/Bitcount Grid Double Font/BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf" id="3_bfpow"]
 
 [node name="Dialogue" type="Control" unique_id=1860959475]
 layout_mode = 3
@@ -16,14 +17,16 @@ delay = 0.1
 
 [node name="DialogueBox" type="Sprite2D" parent="." unique_id=1790524748]
 texture_filter = 1
-position = Vector2(430.99997, 223)
-scale = Vector2(15, 15)
+position = Vector2(565.99994, 395)
+scale = Vector2(25, 25)
 texture = ExtResource("2_3n4vj")
 
 [node name="TestScript" type="RichTextLabel" parent="." unique_id=2123711139]
 layout_mode = 0
-offset_left = 222.0
-offset_top = 117.0
-offset_right = 640.0
-offset_bottom = 267.0
+offset_left = 218.0
+offset_top = 220.0
+offset_right = 913.0
+offset_bottom = 470.0
+theme_override_fonts/normal_font = ExtResource("3_bfpow")
+theme_override_font_sizes/normal_font_size = 32
 text = "placeholder dialogue"

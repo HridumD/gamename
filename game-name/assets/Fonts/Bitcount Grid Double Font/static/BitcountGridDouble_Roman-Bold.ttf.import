@@ -2,13 +2,13 @@
 
 importer="font_data_dynamic"
 type="FontFile"
-uid="uid://cbmqeit3pmbwi"
-path="res://.godot/imported/BitcountGridDouble_Cursive-Regular.ttf-208fa9fae3193acd0896ee02b8e14e0b.fontdata"
+uid="uid://d1h8vssp328ip"
+path="res://.godot/imported/BitcountGridDouble_Roman-Bold.ttf-980bad94f49558912e283159bbc8e7a8.fontdata"
 
 [deps]
 
-source_file="res://assets/Bitcount_Grid_Double/static/BitcountGridDouble_Cursive-Regular.ttf"
-dest_files=["res://.godot/imported/BitcountGridDouble_Cursive-Regular.ttf-208fa9fae3193acd0896ee02b8e14e0b.fontdata"]
+source_file="res://assets/Fonts/Bitcount Grid Double Font/static/BitcountGridDouble_Roman-Bold.ttf"
+dest_files=["res://.godot/imported/BitcountGridDouble_Roman-Bold.ttf-980bad94f49558912e283159bbc8e7a8.fontdata"]
 
 [params]
 

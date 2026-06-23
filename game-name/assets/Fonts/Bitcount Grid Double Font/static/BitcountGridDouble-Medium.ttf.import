@@ -3,12 +3,12 @@
 importer="font_data_dynamic"
 type="FontFile"
 uid="uid://bhcuxyqc0vv10"
-path="res://.godot/imported/BitcountGridDouble-Medium.ttf-2b29c831089dcc2f3783edee3f8d38ee.fontdata"
+path="res://.godot/imported/BitcountGridDouble-Medium.ttf-3b67dd66d3b229a025333ca9afce6967.fontdata"
 
 [deps]
 
-source_file="res://assets/Bitcount_Grid_Double/static/BitcountGridDouble-Medium.ttf"
-dest_files=["res://.godot/imported/BitcountGridDouble-Medium.ttf-2b29c831089dcc2f3783edee3f8d38ee.fontdata"]
+source_file="res://assets/Fonts/Bitcount Grid Double Font/static/BitcountGridDouble-Medium.ttf"
+dest_files=["res://.godot/imported/BitcountGridDouble-Medium.ttf-3b67dd66d3b229a025333ca9afce6967.fontdata"]
 
 [params]
 
