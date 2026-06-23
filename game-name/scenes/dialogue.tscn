@@ -20,7 +20,7 @@ position = Vector2(430.99997, 223)
 scale = Vector2(15, 15)
 texture = ExtResource("2_3n4vj")
 
-[node name="DialogueText" type="RichTextLabel" parent="." unique_id=2123711139]
+[node name="TestScript" type="RichTextLabel" parent="." unique_id=2123711139]
 layout_mode = 0
 offset_left = 222.0
 offset_top = 117.0
