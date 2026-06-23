@@ -1,6 +1,6 @@
 extends Node
 
-# Uninitialized Variables
+# Uninitialized Variables (Editable in Editor)
 @export var dialogue_lines: String
 @export var delay: float
 
@@ -9,7 +9,7 @@ var RTL: RichTextLabel
 
 # Start function (Called once at start)
 func _ready() -> void:
-	RTL = self.get_child(0)
+	RTL = self.get_child(1)
 	
 	RTL.text = dialogue_lines
 	

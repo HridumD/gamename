@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://ccireu3j1fy3k"]
 
 [ext_resource type="Script" uid="uid://b5e2g8tgu6bgg" path="res://scripts/dialogue_manager.gd" id="1_jwyou"]
+[ext_resource type="Texture2D" uid="uid://tsh7w87f0q8q" path="res://assets/DialogueBox.png" id="2_3n4vj"]
 
 [node name="Dialogue" type="Control" unique_id=1860959475]
 layout_mode = 3
@@ -13,10 +14,16 @@ script = ExtResource("1_jwyou")
 dialogue_lines = "We got this cool typing effect working in godot for the dialogue. This is MASSIVE news for the unemployed."
 delay = 0.1
 
+[node name="DialogueBox" type="Sprite2D" parent="." unique_id=1790524748]
+texture_filter = 1
+position = Vector2(430.99997, 223)
+scale = Vector2(15, 15)
+texture = ExtResource("2_3n4vj")
+
 [node name="DialogueText" type="RichTextLabel" parent="." unique_id=2123711139]
 layout_mode = 0
-offset_left = 283.0
-offset_top = 230.0
-offset_right = 737.0
-offset_bottom = 485.0
+offset_left = 222.0
+offset_top = 117.0
+offset_right = 640.0
+offset_bottom = 267.0
 text = "placeholder dialogue"
