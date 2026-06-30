@@ -13,8 +13,6 @@ anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
 script = ExtResource("1_fyky8")
-delay = 0.2
-dialogue_file = "res://assets/DialogueFolder/test_dialogue.txt"
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=730523440]
 

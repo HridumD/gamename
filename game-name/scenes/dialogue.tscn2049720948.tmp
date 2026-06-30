@@ -1,6 +1,6 @@
 [gd_scene format=3 uid="uid://ccireu3j1fy3k"]
 
-[ext_resource type="Script" uid="uid://b5e2g8tgu6bgg" path="res://scripts/dialogue_scripts/dialogue_manager.gd" id="1_fyky8"]
+[ext_resource type="Script" uid="uid://b5e2g8tgu6bgg" path="res://scripts/dialogue/dialogue_manager.gd" id="1_jwyou"]
 [ext_resource type="Texture2D" uid="uid://tsh7w87f0q8q" path="res://assets/DialogueBox.png" id="2_3n4vj"]
 [ext_resource type="FontFile" uid="uid://ck621eri20ubg" path="res://assets/Fonts/Bitcount Grid Double Font/BitcountGridDouble-VariableFont_CRSV,ELSH,ELXP,slnt,wght.ttf" id="3_bfpow"]
 [ext_resource type="Texture2D" uid="uid://xjei5uvmwjdo" path="res://assets/Next.png" id="4_fyky8"]
@@ -12,9 +12,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-script = ExtResource("1_fyky8")
-delay = 0.2
-dialogue_file = "res://assets/DialogueFolder/test_dialogue.txt"
+script = ExtResource("1_jwyou")
 
 [node name="Camera2D" type="Camera2D" parent="." unique_id=730523440]
 
