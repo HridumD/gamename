@@ -14,7 +14,7 @@ var index = 0
 # Start function (Called once at start)
 func _ready() -> void:
 	# Extract all dialogue lines and split them into an array
-	lines = extractTextFile().split(",")
+	lines = extractTextFile().split("@")
 	
 	# Fine Dialogue Child
 	RTL = self.get_child(2)
@@ -63,6 +63,8 @@ func extractTextFile() -> String:
 	if dialogue_file != "":
 		var file = FileAccess.open(dialogue_file, FileAccess.READ)
 		var content = file.get_as_text()
+		
+		print(content)
 		
 		return content
 	else:
